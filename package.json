@@ -1,0 +1,8 @@
+{
+  "name": "angrypotato-audit",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "playwright": "^1.40.0"
+  }
+}
